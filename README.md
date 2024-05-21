@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello !
+
+#### I am have recently trained as a data scientist, having conducted a data-driven thesis for my MSc in Behavioural Science and completed Le Wagon's Data Science & AI bootcamp.
+
+I am a particularly interest-driven individual who has worked previously as a writer in creative marketing contexts, and would love the opportunity to marry my interests, working on thoughtful, inventive projects within an area I love, such as politics, music, film or sport.
+
+In this vein, a team of graduates and I together created a classifier that takes a UK parliamentary speech and uses NLP and a support vector machine model to predict which political party gave it. The classifier can be interacted with via an [API](https://polclassifier.streamlit.app/).
+
+I have also taught myself how to program for iOS using Swift, and have designed and developed a fully functioning app allowing users to explore and celebrate the pubs of East London in all their individual glory. The app itself is awaiting content, which I am expecting to finish very soon. 
+
+Thanks !
 
 <!--
 **jonahramchandani/jonahramchandani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
