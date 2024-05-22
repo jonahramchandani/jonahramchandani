@@ -1,6 +1,6 @@
 ## Hello !
 
-#### I am have recently trained as a data scientist, having conducted a data-driven thesis for my MSc in Behavioural Science and completed Le Wagon's Data Science & AI bootcamp.
+#### I am a junior data scientist, having conducted a data-driven thesis for my MSc in Behavioural Science and completed Le Wagon's Data Science & AI bootcamp.
 
 I am a particularly interest-driven individual who has worked previously as a writer in creative marketing contexts, and would love the opportunity to marry my interests, working on thoughtful, inventive projects within an area I love, such as politics, music, film or sport.
 
